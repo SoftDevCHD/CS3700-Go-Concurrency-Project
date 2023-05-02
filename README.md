@@ -1,1 +1,1 @@
-# CS3700-Go-Concurrency-Project
+# CS3700-Go-Project-Demo
